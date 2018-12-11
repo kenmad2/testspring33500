@@ -1,3 +1,4 @@
-# Semaine 3
+# PROJET
 
-* [exo301](exo301) est un exercice de mise en oeuvre de JPA
+* [Projet] MOOC Java EE Spring prêt à l'emploi
+
